@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aastha7078
 - 👀 I’m interested in internship
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Frontend Project ...
 - 📫 How to reach me ...
 
 <!---
